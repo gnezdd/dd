@@ -8,6 +8,7 @@
 
 ## 运行示例
 **项目结构：**
+```
 |--dd/
 |--static/
     |--css/
@@ -19,6 +20,7 @@
     |--custom_func.tmpl
 |--go.mod
 |--main.go
+```
 **go.mod：**
 ```
 module example
